@@ -1,6 +1,6 @@
 # Hey there, I'm Chaman 👋
 
-Welcome to my GitHub profile! I'm a passionate React Native developer who loves diving deep into the world of JavaScript. When I'm not coding, you'll often find me exploring new ideas with new designs of applications ever. 📲🈸🚀
+Welcome to my GitHub profile! I'm a passionate React Native developer who loves diving deep into the world of JavaScript. When I'm not coding, you'll often find me exploring new ideas with new designs of applications ever.. 📲🈸🚀
 
 ## 🚀 About Me
 
