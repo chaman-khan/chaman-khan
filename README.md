@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a passionate React Native developer who loves 
 
 I believe in the power of collaboration and learning from each other. Let's connect, share ideas, and build something awesome together!
 
-- 📫 You can reach me via [email](mailto:chaman.devv@gmail.com) or [LinkedIn](www.linkedin.com/in/chaman-khan-019194202?).
+- 📫 You can reach me via [email](mailto:chaman.devv@gmail.com) or [LinkedIn](https://www.linkedin.com/in/chaman-khan-019194202/).
 
 
 ## 🚀 Let's Code and Game On!
