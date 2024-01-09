@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a passionate React Native developer who loves 
 - 🌐 Exploring the intricate web of JavaScript is my idea of a good time.
 - 🌟 Committed to following best practices and coding standards, ensuring maintainability and scalability of projects
    📳 Currently exploring the latest trends and advancements in the React Native ecosystem to stay at the forefront of mobile development.
+     Start working for MongoDB & Node Js
 
 
 ## 🛠️ Languages and Tools
